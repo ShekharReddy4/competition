@@ -22,3 +22,4 @@ def fib(n):
 fib.count = 0
 print(fib(int(input())))
 print(fib.count)
+print(flist.values())
